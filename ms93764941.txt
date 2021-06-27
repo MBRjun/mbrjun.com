@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "mbrjun.com",
+  "Id": "64bbefc1-bd9e-404c-b3e4-56927910aa11"
+}
