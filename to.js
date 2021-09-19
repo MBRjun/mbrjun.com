@@ -1,1 +1,1 @@
-   setTimeout("javascript:location.href='//ddos.html'", 1);   
+   setTimeout("javascript:location.href='ddos.html'", 1);   
